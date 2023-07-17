@@ -1,2 +1,2 @@
-# remkbl
-ssh into unix tablet, upload pdf/epub files 
+# Remarkable
+ssh into unix remarkable tablet, upload pdf/epub files 
